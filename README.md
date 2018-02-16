@@ -1,2 +1,3 @@
 # eveClient
-Website for interacting with Eve7
+Web Portal to interact with Eve7 REST APIs
+
